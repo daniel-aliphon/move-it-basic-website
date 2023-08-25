@@ -1,1 +1,1 @@
-move-it-basic-website- https://github.com/DanXGaming/move-it-basic-website
+move-it-basic-website- https://danxgaming.github.io/move-it-basic-website/
